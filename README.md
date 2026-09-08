@@ -1,3 +1,3 @@
-# asian
-
-Developed with Unreal Engine 5
+# My first UE 5 game. 
+It's a 3D shooter with basic functions of shooting, running, pick up items, basic map design and more.
+i had made better projects after that, but this one is the only one that i won't touch anymore.
